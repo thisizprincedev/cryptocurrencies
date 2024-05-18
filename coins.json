@@ -16,7 +16,7 @@
             "name": "Lending",
             "description": "Protocols for lending and borrowing."
         },
-        {
+        { 
             "id": "yield_aggregators",
             "name": "Yield Aggregators",
             "description": "Solutions for earning from idle crypto assets."
@@ -8135,6 +8135,31 @@
           "id": "litecoin",
           "funds": []
       },
+      {
+          "code": "DTBX",
+          "name": "DotBlox",
+          "categories": ["blockchain"],
+          "active": true,
+          "description": "",
+          "links": {
+              "website": "http://dotblox.io",
+              "whitepaper": "",
+              "guide": "",
+              "twitter": "",
+              "github": "",
+              "reddit": "",
+              "telegram": ""
+          },
+          "security": {
+              "privacy": "medium",
+              "decentralized": true,
+              "confiscation_resistance": true,
+              "censorship_resistance": true
+          },
+          "rating": "",
+          "id": "dotblox",
+          "funds": []
+      },  
       {
           "code": "ZEC",
           "name": "Zcash",
